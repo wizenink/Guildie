@@ -1,0 +1,12 @@
+## Interface: 40300
+## Title : Guildie
+## Notes: Blackmoon Guild Bank Management System
+## Author: David Maseda (Glwyn - Exodar EU)
+## Version: 1.0
+## Dependencies: 
+## SavedVariablesPerCharacter: GuildiePrefs
+## OptionalDeps: Ace3
+## X-Embeds: Ace3
+
+embeds.xml
+Guildie.lua
